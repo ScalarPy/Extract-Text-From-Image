@@ -4,10 +4,7 @@
 Install pytesseract library 
 
 pytesseract- (OCR)Optical Character Recognition
-Command : 
-```
-pip install pytesseract 
-```
+Command : ``` pip install pytesseract ```
 
 ## Step 2: 
 Download and run tessaract.exe file
